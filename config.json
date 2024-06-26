@@ -41,6 +41,11 @@
     },
     "europa": {
         "tags": ["europa"],
+        "hmkr": {
+            "contract": "Hitmakr",
+            "verifyPath": "contracts/ERC20/Europa/Hitmakr.sol:Hitmakr",
+            "tag": "HMKR"
+        },
         "link": {
             "contract": "LinkToken",
             "verifyPath": "contracts/ERC20/Europa/Link.sol:LinkToken",
